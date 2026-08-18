@@ -76,15 +76,58 @@ I'm learning to build things first, so that later I know exactly how to break th
 ---
 
 <!--START_SECTION:streak-->
+
 ## 🔐 Cybersecurity Essentials Course Progress (auto-updated)
 
 <div align="center">
 
-![Progress](https://img.shields.io/badge/Cybersecurity%20Essentials-0%20%2F%2036-FF3131?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Progress](https://img.shields.io/badge/Cybersecurity%20Essentials-1%20%2F%2036-FFD700?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 </div>
 
-_This table fills itself in automatically — an item gets checked off the next time you push a commit after finishing it. No manual editing needed._
+_Last checked: 2026-08-18 · An item is checked off automatically the next time you push a commit after finishing it - no manual editing._
+
+| # | Item | Done |
+|:---:|:---|:---:|
+| 1 | 📘 Module 1: Cybersecurity Threats, Vulnerabilities, and Attacks | ✅ |
+| 2 | 📘 Module 2: Securing Networks | ⬜ |
+| 3 | 📘 Module 3: Attacking the Foundation | ⬜ |
+| 4 | 📘 Module 4: Attacking What We Do | ⬜ |
+| 5 | 📘 Module 5: Wireless Network Communication | ⬜ |
+| 6 | 📘 Module 6: Network Security Infrastructure | ⬜ |
+| 7 | 🧩 Checkpoint Exam: Network Security | ⬜ |
+| 8 | 📘 Module 7: The Windows Operating System | ⬜ |
+| 9 | 📘 Module 8: Linux Overview | ⬜ |
+| 10 | 📘 Module 9: System and Endpoint Protection | ⬜ |
+| 11 | 📘 Module 10: Cybersecurity Principles, Practices, and Processes | ⬜ |
+| 12 | 🧩 Checkpoint Exam: OS and Endpoint Security | ⬜ |
+| 13 | 📘 Module 11: Understanding Defense | ⬜ |
+| 14 | 📘 Module 12: System and Network Defense | ⬜ |
+| 15 | 📘 Module 13: Access Control | ⬜ |
+| 16 | 🧩 Checkpoint Exam: Principles, Practices, and Processes of Network Defense | ⬜ |
+| 17 | 📘 Module 14: Access Control Lists | ⬜ |
+| 18 | 📘 Module 15: Firewall Technologies | ⬜ |
+| 19 | 📘 Module 16: Zone-Based Policy Firewalls | ⬜ |
+| 20 | 📘 Module 17: Cloud Security | ⬜ |
+| 21 | 📘 Module 18: Cryptography | ⬜ |
+| 22 | 🧩 Checkpoint Exam: Firewalls, Cryptography, and Cloud Security | ⬜ |
+| 23 | 📘 Module 19: Technologies and Protocols | ⬜ |
+| 24 | 📘 Module 20: Network Security Data | ⬜ |
+| 25 | 📘 Module 21: Evaluating Alerts | ⬜ |
+| 26 | 🧩 Checkpoint Exam: Evaluating Security Alerts | ⬜ |
+| 27 | 📘 Module 22: Governance and Compliance | ⬜ |
+| 28 | 📘 Module 23: Network Security Testing | ⬜ |
+| 29 | 📘 Module 24: Threat Intelligence | ⬜ |
+| 30 | 📘 Module 25: Endpoint Vulnerability Assessment | ⬜ |
+| 31 | 📘 Module 26: Risk Management and Security Controls | ⬜ |
+| 32 | 🧩 Checkpoint Exam: Vulnerability Assessment and Risk Management | ⬜ |
+| 33 | 📘 Module 27: Digital Forensics and Incident Analysis and Response | ⬜ |
+| 34 | 🧩 Checkpoint Exam: Incident Response | ⬜ |
+| 35 | 📝 End of Course Survey | ⬜ |
+| 36 | 🏁 Cybersecurity Essentials Course Final Exam | ⬜ |
+
+> ✅ completed · ⬜ upcoming — 📘 module · 🧩 checkpoint exam · 📝 survey · 🏁 final exam. Items complete in order, one per day.
+
 <!--END_SECTION:streak-->
 
 ---
