@@ -75,6 +75,20 @@ I'm learning to build things first, so that later I know exactly how to break th
 
 ---
 
+<!--START_SECTION:streak-->
+## 🔐 Cybersecurity Essentials Course Progress (auto-updated)
+
+<div align="center">
+
+![Progress](https://img.shields.io/badge/Cybersecurity%20Essentials-0%20%2F%2036-FF3131?style=for-the-badge&logo=hackthebox&logoColor=black)
+
+</div>
+
+_This table fills itself in automatically — an item gets checked off the next time you push a commit after finishing it. No manual editing needed._
+<!--END_SECTION:streak-->
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
